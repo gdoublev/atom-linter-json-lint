@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "atom-package-deps": "^4.0.1",
-    "json-lint": "^0.1.0 "
+    "json-lint": "^0.1.0"
   },
   "package-deps": [
     "linter"
